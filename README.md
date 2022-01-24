@@ -1,5 +1,5 @@
 # Juuso "korho" Korhonen
-Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, started programming 2014, when 15 years old. You can find my website from mere: https://korho.fi/
+Hiya! I'm an entrepreneur nerd and interested in developing and IT stuff. Been for my whole life, but started programming around 2014, when 14 years old. You can find my website from mere: https://korho.fi/
 
 <br>
 
