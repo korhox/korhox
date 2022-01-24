@@ -1,4 +1,5 @@
 <div style="background:#36393f;padding:20px;border-radius:5px">
+
 # Juuso "korho" Korhonen
 Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, started programming 2014, when 15 years old. You can find my website from mere: https://korho.fi/
 
