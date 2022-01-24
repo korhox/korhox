@@ -1,3 +1,4 @@
+<div style="background:#36393f;padding:20px;border-radius:5px">
 # Juuso "korho" Korhonen
 Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, started programming 2014, when 15 years old. You can find my website from mere: https://korho.fi/
 
@@ -12,7 +13,7 @@ Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, star
 <br>
 
 ## Main languages
-<img src="assets/html.svg" height=50><img src="assets/css.svg" height=50><img src="assets/php.svg" height=50><img src="assets/javascript.svg" height=50>
+<img src="assets/html.svg" height=50> <img src="assets/css.svg" height=50> <img src="assets/php.svg" height=50> <img src="assets/javascript.svg" height=50>
  
 <br>
 
@@ -42,3 +43,4 @@ Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, star
 - Python
 - Laravel
 - Frappe Network
+</div>
