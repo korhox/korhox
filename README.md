@@ -6,7 +6,7 @@ Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, star
 - [Minespeak](https://minespeak.fi/) - The finnish Minecraft community
 
 ### My pain programming languages are:
-- JavaScript
+- ![JavaScript](assets/javascript.svg | width=50)JavaScript
 - PHP
 - HTML/CSS
 
