@@ -1,30 +1,46 @@
 # Juuso "korho" Korhonen
 Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, started programming 2014, when 15 years old. You can find my website from mere: https://korho.fi/
 
-### My main projects currently are:
-- [Bittivirta](https://bittivirta.fi/) - Hosting, website design, computer repairs, live-streaming services
-- [Minespeak](https://minespeak.fi/) - The finnish Minecraft community
+<br>
 
-### My main languages are:
-- <img src="assets/javascript.svg" width=15> JavaScript
-- <img src="assets/php.svg" width=15> PHP
-- <img src="assets/html.svg" width=15> HTML
-- <img src="assets/css.svg" width=15> CSS
+## Main projects / work
+[<img src="assets/bittivirta.svg" height=60>](https://bittivirta.fi/)
 
-### And favourite libraries, modules and frameworks are:
-- Node
-- usmanhalalit/pixie (Laravel styled database query builder)
-- Bootstrap
-- FontAwesome
-- Discord.js (+Liora, frameworkish bot)
+[<img src="assets/minespeak.png" height=60>](https://minespeak.fi/)
 
-### I do know basics of these programming languages:
-- Java (+maven)
-- C#
-- Python
-- VisualBasic
+<br>
+<br>
 
-### Currently studying:
+## Main languages
+<img src="assets/html.svg" height=50>
+<img src="assets/css.svg" height=50>
+<img src="assets/php.svg" height=50>
+<img src="assets/javascript.svg" height=50>
+ 
+<br>
+
+## Favourite libraries, modules and frameworks
+<ul style="list-style-type:none;padding:0">
+    <li><img src="assets/node.svg" height=15 style="min-width:20px;object-fit:scale-down;"> Node.js</li>
+    <li><img src="assets/bootstrap.svg" height=15 style="min-width:20px;object-fit:scale-down;"> Bootstrap</li>
+    <li><img src="assets/fontawesome.svg" height=15 style="min-width:20px;object-fit:scale-down;"> FontAwesome</li>
+    <li>+ usmanhalalit/pixie (Laravel styled database query builder)</li>
+    <li>+ Discord.js (+Liora, frameworkish bot)</li>
+</ul>
+
+<br>
+
+## Basics I know of
+<ul style="list-style-type:none;padding:0">
+    <li><img src="assets/java.svg" height=15 style="min-width:20px;object-fit:scale-down;"> Java (+maven)</li>
+    <li><img src="assets/csharp.svg" height=15 style="min-width:20px;object-fit:scale-down;"> C#</li>
+    <li><img src="assets/python.svg" height=15 style="min-width:20px;object-fit:scale-down;"> Python</li>
+    <li><img src="assets/vs.svg" height=15 style="min-width:20px;object-fit:scale-down;"> VisualBasic</li>
+</ul>
+
+<br>
+
+## Currently studying:
 - Next.js
 - Python
 - Laravel
