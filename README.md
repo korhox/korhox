@@ -4,8 +4,7 @@ Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, star
 <br>
 
 ## Main projects / work
-[<img src="assets/bittivirta.svg" height=60>](https://bittivirta.fi/) 
-[<img src="assets/minespeak.png" height=60>](https://minespeak.fi/)
+[<img src="assets/bittivirta.svg" height=80>](https://bittivirta.fi/)[<img src="assets/minespeak.svg" height=80>](https://minespeak.fi/)
 
 <br>
 <br>
