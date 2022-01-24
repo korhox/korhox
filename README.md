@@ -5,10 +5,11 @@ Hiya! I'm a nerd interested in developing and IT stuff. Been since my life, star
 - [Bittivirta](https://bittivirta.fi/) - Hosting, website design, computer repairs, live-streaming services
 - [Minespeak](https://minespeak.fi/) - The finnish Minecraft community
 
-### My pain programming languages are:
-- ![JavaScript](assets/javascript.svg | width=50)JavaScript
-- PHP
-- HTML/CSS
+### My main languages are:
+- <img src="assets/javascript.svg" width=15> JavaScript
+- <img src="assets/php.svg" width=15> PHP
+- <img src="assets/html.svg" width=15> HTML
+- <img src="assets/css.svg" width=15> CSS
 
 ### And favourite libraries, modules and frameworks are:
 - Node
