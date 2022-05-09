@@ -4,7 +4,10 @@
 🧑🏼‍💻 Looking for a job (Hire me, or contact for a quote)<br>
 🤓 Geek since for ever, started programming as an 14 years old kid, 2014<br>
 🖨 Good knowledge of IT, fast learner<br>
-🔍 Tends to take notice on things people normally don't (not sure is this a good or a bad habit)
+🔍 Tends to take notice on things people normally don't (not sure is this a good or a bad habit)<br>
+🔋 Charging batteries by working in a team and alone<br>
+🙂 Socially smart, trying always to be friendly to everyone<br>
+👒 Always killing with kindess
 
 🇫🇮 From Valkeakoski, Finland<br>
 🏳 Finnish as native language, very good grammar<br>
@@ -21,8 +24,12 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 ## Work Experience
 - **Computer refurbisher & General manager** at Vstore.fi Parts Oy, *Apr 2018 - Jun 2019 · 1 yr 3 mos*<br>Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating
-- **Sandwich Artist** at Subway Valkeakoski & Tesomaa, *Mar 2018 - Apr 2018 · 2 mos*<br>Customer service, food prepping & sandwich making
+Supervided, guided and trained the on-the-job learning students, developed new processes to enhance the efficiency of fulfilling new orders
+- **Sandwich Artist** at Subway, *Mar 2018 - Apr 2018 · 2 mos*<br>
+Gained experience working under high pressure, while maintaining ability to keep it cool for customers
 - **Entrepreneur, Self-employed at Bittivirta**, *Jul 2016 - Present · +6 yrs*<br>Selling custom made websites, game servers, web hosting, domains, and graphic design. The site was founded early as 2016 for a hobby.
+- **Club instructor and camp councelor** at 4H Finland and Sääksmäki Church, *2015-2020*<br>
+Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps
 
 <br>
 
@@ -30,6 +37,7 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 - **Bachelor of Business Administration, Business Information Systems - BBA (210 cr)** Tampere University of Applied Sciences, *Aug 2021 - Present*
 - **Computer Software Engineering Courses (64 cr)** JAMK University of Applied Sciences, *2019 - 2020*
 - **Business Information Systems Basic egree (180cr)** Valkeakoski Vocational College, *Aug 2015 - Dec 2017*
+- **Club instructor and camp councelor** 4H Finland and Sääksmäki Church
 
 <br>
 
@@ -37,6 +45,7 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <img src="assets/html.svg" alt="HTML (5)" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/css.svg" alt="CSS" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/php.svg" alt="PHP" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/wordpress.svg" alt="WordPress" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/javascript.svg" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/python.svg" alt="Python" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/mariadb.svg" alt="MariaDB" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +57,9 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <img src="assets/illustrator.svg" alt="Illustrator" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/photoshop.svg" alt="Photoshop" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/datagrip.svg" alt="Datagrip" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/office.svg" alt="Datagrip" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/word.svg" alt="Word" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/excel.svg" alt="Excel" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/powerpoint.svg" alt="Powerpoint" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>&nbsp; + Linux/Ubuntu servers
 <br>&nbsp; + Windows servers
 <br>&nbsp; + Good knowledge of basic server infrastructures
@@ -56,6 +67,7 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <br>&nbsp; + Power using of Microsoft Office Word & Excel
 <br>&nbsp; + (Good understanding of video streaming and venue PA's)
 <br>&nbsp; + (Few years of baking and cooking)
+<br>&nbsp; + Website optimization and SEO
 
 <br>
 
