@@ -19,32 +19,13 @@
 ## Contact me
 Ask me anything, offer for a job or ask for a quote through an email [juuso@korho.fi](juuso@korho.fi)!
 
-
-<br>
-
-## Work Experience
-- **Computer refurbisher & General manager** at Vstore.fi Parts Oy, *Apr 2018 - Jun 2019 · 1 yr 3 mos*<br>Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating
-Supervided, guided and trained the on-the-job learning students, developed new processes to enhance the efficiency of fulfilling new orders
-- **Sandwich Artist** at Subway, *Mar 2018 - Apr 2018 · 2 mos*<br>
-Gained experience working under high pressure, while maintaining ability to keep it cool for customers
-- **Entrepreneur, Self-employed at Bittivirta**, *Jul 2016 - Present · +6 yrs*<br>Selling custom made websites, game servers, web hosting, domains, and graphic design. The site was founded early as 2016 for a hobby.
-- **Club instructor and camp councelor** at 4H Finland and Sääksmäki Church, *2015-2020*<br>
-Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps
-
-<br>
-
-## Education
-- **Bachelor of Business Administration, Business Information Systems - BBA (210 cr)** Tampere University of Applied Sciences, *Aug 2021 - Present*
-- **Computer Software Engineering Courses (64 cr)** JAMK University of Applied Sciences, *2019 - 2020*
-- **Business Information Systems Basic egree (180cr)** Valkeakoski Vocational College, *Aug 2015 - Dec 2017*
-- **Club instructor and camp councelor** 4H Finland and Sääksmäki Church
-
 <br>
 
 ## Main skillsets
 <img src="assets/html.svg" alt="HTML (5)" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/css.svg" alt="CSS" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/php.svg" alt="PHP" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/smarty.webp" alt="Smarty" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/wordpress.svg" alt="WordPress" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/javascript.svg" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/python.svg" alt="Python" height=50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,7 +45,7 @@ Learned a great set of skills while guided kids and youngsters during weekly clu
 <br>&nbsp; + Windows servers
 <br>&nbsp; + Good knowledge of basic server infrastructures
 <br>&nbsp; + Configuring and debbugging server software
-<br>&nbsp; + Power using of Microsoft Office Word & Excel
+<br>&nbsp; + Power using of Microsoft Office Word, Excel & Powerpoint
 <br>&nbsp; + (Good understanding of video streaming and venue PA's)
 <br>&nbsp; + (Few years of baking and cooking)
 <br>&nbsp; + Website optimization and SEO
@@ -90,7 +71,27 @@ Learned a great set of skills while guided kids and youngsters during weekly clu
 
 <br>
 
+## Work Experience
+- **Computer refurbisher & General manager** at Vstore.fi Parts Oy, *Apr 2018 - Jun 2019 · 1 yr 3 mos*<br>Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating
+Supervided, guided and trained the on-the-job learning students, developed new processes to enhance the efficiency of fulfilling new orders
+- **Sandwich Artist** at Subway, *Mar 2018 - Apr 2018 · 2 mos*<br>
+Gained experience working under high pressure, while maintaining ability to keep it cool for customers
+- **Entrepreneur, Self-employed at Bittivirta**, *Jul 2016 - Present · +6 yrs*<br>Selling custom made websites, game servers, web hosting, domains, and graphic design. The site was founded early as 2016 for a hobby.
+- **Club instructor and camp councelor** at 4H Finland and Sääksmäki Church, *2015-2020*<br>
+Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps
+
+<br>
+
+## Education
+- **Bachelor of Business Administration, Business Information Systems - BBA (210 cr)** Tampere University of Applied Sciences, *Aug 2021 - Present*
+- **Computer Software Engineering Courses (64 cr)** JAMK University of Applied Sciences, *2019 - 2020*
+- **Business Information Systems Basic egree (180cr)** Valkeakoski Vocational College, *Aug 2015 - Dec 2017*
+- **Club instructor and camp councelor** 4H Finland and Sääksmäki Church
+
+<br>
+
 ## Currently studying
 [<img src="assets/nextjs.svg" alt="Next.js" height=40>](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/laravel.svg" alt="Laravel" height=40>](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/frappe-framework.png" alt="Frappe Framework" height=40>](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/frappe-framework.webp" alt="Frappe Framework" height=40>](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
