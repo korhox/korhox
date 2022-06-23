@@ -4,8 +4,9 @@
 🧑🏼‍💻 Looking for a job (Hire me, or contact for a quote)<br>
 🤓 Geek since for ever, started programming as an 14 years old kid, 2014<br>
 🖨 Good knowledge of IT, fast learner<br>
+🧁 Good baker and cook, give me a recipe and I'll nail it (some times second try better though)
 🔍 Tends to take notice on things people normally don't (not sure is this a good or a bad habit)<br>
-🔋 Charging batteries by working in a team and alone<br>
+🔋 Charging batteries by working in a team and alone (I need variety)<br>
 🙂 Socially smart, trying always to be friendly to everyone<br>
 👒 Always killing with kindess
 
