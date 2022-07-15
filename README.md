@@ -14,6 +14,12 @@
 🏳 Finnish as native language, very good grammar<br>
 🏳 Very good English grammar and looking to improve on spoken language
 
+<br>
+
+## SSH Keys
+If I've requested you to add my SSH keys to your server, you can get them here: [https://github.com/korhox.keys](https://github.com/korhox.keys).
+
+Please remove my access to your server after we have finished our cooperation to maximize your safety.
 
 <br>
 
