@@ -28,18 +28,27 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 <br>
 
-## Main skillsets
+## Known programming languages
 [<img src="assets/html.svg" alt="HTML (5)" height=50>](https://html.spec.whatwg.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/css.svg" alt="CSS" height=50>](https://www.w3.org/Style/CSS/#specs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/php.svg" alt="PHP" height=50>](https://www.php.net/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/javascript.svg" height=50>](https://tc39.es/ecma262/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/typescript.svg" alt="TypeScript" height=40>](https://nodejs.org/en/](https://www.typescriptlang.org/))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/python.svg" alt="Python" height=50>](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/java.svg" alt="Java" height=40>](https://dev.java/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/kotlin.svg" alt="Kotlin" height=40>](https://kotlinlang.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/csharp.svg" alt="C#" height=40>](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="assets/vb.svg" alt="VisualBasic" height=40>](https://en.wikipedia.org/wiki/Visual_Basic_.NET)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Website software knowledge
+[<img src="assets/whmcs.svg" alt="WHM Complete Solution (WHMCS)" height=50>](https://www.whmcs.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/wordpress.svg" alt="WordPress" height=50>](https://wordpress.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/elementor.svg" alt="Elementor" height=50>](https://elementor.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/whmcs.svg" alt="WHM Complete Solution (WHMCS)" height=50>](https://www.whmcs.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/javascript.svg" height=50>](https://tc39.es/ecma262/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/python.svg" alt="Python" height=50>](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Software knowledge
+[<img src="assets/git.svg" alt="Git" height=50>](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/mariadb.svg" alt="MariaDB" height=50>](https://mariadb.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/mysql.svg" alt="MySQL" height=50>](https://mariadb.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/git.svg" alt="Git" height=50>](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/nginx.svg" alt="NGINX" height=50>](https://www.nginx.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/apache.svg" alt="apache" height=50>](https://httpd.apache.org/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/docker.webp" alt="Docker" height=50>](https://www.docker.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +58,8 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 [<img src="assets/word.svg" alt="Word" height=50>](https://www.microsoft.com/en-us/microsoft-365/word)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/excel.svg" alt="Excel" height=50>](https://www.microsoft.com/en-us/microsoft-365/excel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="assets/powerpoint.svg" alt="Powerpoint" height=50>](https://www.microsoft.com/en-us/microsoft-365/powerpoint)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Other knowledge
 <br>&nbsp; + Linux/Ubuntu servers
 <br>&nbsp; + Windows servers
 <br>&nbsp; + Good knowledge of basic server infrastructures
@@ -58,6 +69,7 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <br>&nbsp; + (Few years of baking and cooking)
 <br>&nbsp; + Modern website design
 <br>&nbsp; + Website optimization and SEO
+<br>&nbsp; + MacOS, Linux & Windows (MacOS as main OS)
 
 <br>
 
@@ -71,12 +83,6 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <br>&nbsp; + [Sapphire Framework](https://www.sapphirejs.dev/) ([Discord.js](https://discord.js.org/#/) Framework)
 
 <br>
-
-## Basics I know of
-[<img src="assets/typescript.svg" alt="TypeScript" height=40>](https://nodejs.org/en/](https://www.typescriptlang.org/))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/java.svg" alt="Java" height=40>](https://dev.java/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/csharp.svg" alt="C#" height=40>](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="assets/vb.svg" alt="VisualBasic" height=40>](https://en.wikipedia.org/wiki/Visual_Basic_.NET)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <br>
@@ -96,7 +102,7 @@ Learned a great set of skills while guided kids and youngsters during weekly clu
 - **Bachelor of Business Administration, Business Information Systems - BBA (210 cr)** Tampere University of Applied Sciences, *Aug 2021 - Present*
 - **Computer Software Engineering Courses (64 cr)** JAMK University of Applied Sciences, *2019 - 2020*
 - **Business Information Systems Basic egree (180cr)** Valkeakoski Vocational College, *Aug 2015 - Dec 2017*
-- **Club instructor and camp councelor** 4H Finland and Sääksmäki Church
+- **Club instructor and camp councelor** 4H Finland and Sääksmäki Church, *Aug 2015 - 2019*
 
 <br>
 
