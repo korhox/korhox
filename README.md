@@ -81,7 +81,6 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 | <center><img src="assets/excel.svg" alt="Excel" height=40 style="margin-bottom:-6px;max-width:40px;object-fit:contain;"></center>               | Excel       | :star::star::star::star:☆ | :star::star:☆      | Advanced functions, Macros, Developer tools                |
 | <center><img src="assets/powerpoint.svg" alt="PowerPoint" height=40 style="margin-bottom:-6px;max-width:40px;object-fit:contain;"></center>     | PowerPoint  | :star::star::star::star:☆ | :star::star:☆      | Macros, Developer tools                                    |
 
-
 ## Other knowledge
 
 &nbsp; + Linux/Ubuntu servers
@@ -94,7 +93,6 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 <br>&nbsp; + Modern website design
 <br>&nbsp; + Website optimization and SEO
 <br>&nbsp; + MacOS, Linux & Windows (MacOS as main OS)
-
 
 <br>
 
