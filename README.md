@@ -1,5 +1,10 @@
 # Juuso "korho" Korhonen
 
+![Stats](https://raw.githubusercontent.com/korhox/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Stats](https://raw.githubusercontent.com/korhox/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats](https://raw.githubusercontent.com/korhox/github-stats/master/generated/overview.svg#gh-light-mode-only) ![Stats](https://raw.githubusercontent.com/korhox/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+## About me
+
 💼 Entrepreneur, sole trader, [Bittivirta](https://bittivirta.fi)<br>
 🧑🏼‍💻 Looking for a job (Hire me, or contact for a quote)<br>
 🤓 Geek since for ever, started programming as an 14 years old kid, 2014<br>
