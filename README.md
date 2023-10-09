@@ -37,10 +37,10 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 ## Known programming and markup languages
 
-|                                                                                                                                                                                                                                              | Language     | Skill Level                    | Experience Level   | Improving needed on                           |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------|--------------------|-----------------------------------------------|
-| <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/html-alt.svg" /><img src="assets/html.svg" alt="HTML (5)" height=40 width=40></picture></div>                                                                                                          | HTML         | :star::star::star::star::star: | :star::star::star: | Keeping up on new features                    |
-| <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/css-alt.svg" /><img src="assets/css.svg" alt="CSS" height=40 width=40></picture></div>                                                                                                                | CSS          | :star::star::star::star::star: | :star::star::star: | Animations and reusing                        |
+|                                                                                                                                                                                                  | Language     | Skill Level                    | Experience Level   | Improving needed on                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------|--------------------|-----------------------------------------------|
+| <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/html-alt.svg" /><img src="assets/html.svg" alt="HTML (5)" height=40 width=40></picture></div>           | HTML         | :star::star::star::star::star: | :star::star::star: | Keeping up on new features                    |
+| <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/css-alt.svg" /><img src="assets/css.svg" alt="CSS" height=40 width=40></picture></div>                  | CSS          | :star::star::star::star::star: | :star::star::star: | Animations and reusing                        |
 | <div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/markdown-alt.svg" /><img src="assets/markdown.svg" alt="Markdown" height=40 width=40 /></picture></div> | Markdown     | :star::star::star::star::star: | :star::star::star: | Improving on writing                          |
 | <div align="center"><img src="assets/php.svg" alt="PHP" height=40 width=40></div>                                                                                                                | PHP          | :star::star::star::star:☆      | :star::star::star: | Optimization and testing                      |
 | <div align="center"><img src="assets/javascript.svg" alt="JavaScript" height=40 width=40></div>                                                                                                  | JavaScript   | :star::star::star::star:☆      | :star::star::star: | Asynchronous programming                      |
@@ -54,8 +54,8 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 ## Libraries
 
-|                                                                                                                                           | Library   | Skill Level                    | Experience Level   | Improving needed on                                         |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------|--------------------|-------------------------------------------------------------|
+|                                                                                               | Library   | Skill Level                    | Experience Level   | Improving needed on                                         |
+|-----------------------------------------------------------------------------------------------|-----------|--------------------------------|--------------------|-------------------------------------------------------------|
 | <div align="center"><img src="assets/tailwind.svg" alt="Tailwind" height=40 width=40></div>   | Tailwind  | :star::star::star::star:☆      | :star::star:☆      | Reusing created styles better                               |
 | <div align="center"><img src="assets/bootstrap.svg" alt="Bootstrap" height=40 width=40></div> | Bootstrap | :star::star::star::star::star: | :star::star::star: | Keeping up on new features and utilizing styles more widely |
 | <div align="center"><img src="assets/react.svg" alt="React" height=40 width=40></div>         | React     | :star::star::star:☆☆           | :star::star:☆      | Recap needed, been using React with Next.js                 |
@@ -66,22 +66,23 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 ## Website software knowledge
 
-|                                                                                                                                           | Language  | Skill Level                    | Experience Level   | Improving needed on                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------------------------------|--------------------|-----------------------------------------|
+|                                                                                               | Language  | Skill Level                    | Experience Level   | Improving needed on                     |
+|-----------------------------------------------------------------------------------------------|-----------|--------------------------------|--------------------|-----------------------------------------|
 | <div align="center"><img src="assets/whmcs.svg" alt="WHMCS" height=40 width=40></div>         | WHMCS     | :star::star::star::star::star: | :star::star::star: | Better understanding of the Source code |
 | <div align="center"><img src="assets/wordpress.svg" alt="WordPress" height=40 width=40></div> | WordPress | :star::star::star::star:☆      | :star::star::star: | Addon & Theme Development               |
 | <div align="center"><img src="assets/elementor.svg" alt="Elementor" height=40 width=40></div> | Elementor | :star::star::star::star:☆      | :star::star::star: | Custom block development                |
+| <div align="center"><img src="assets/xenforo.png" alt="xenForo" height=40 width=40></div>     | xenForo   | :star::star::star::star:☆      | :star::star::star: | Advanced addOn development              |
 
 ## Software knowledge
 
-|                                                                                                                                                 | Software    | Skill Level               | Experience Level   | Improving needed on                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------|--------------------|------------------------------------------------------------|
+|                                                                                                     | Software    | Skill Level               | Experience Level   | Improving needed on                                        |
+|-----------------------------------------------------------------------------------------------------|-------------|---------------------------|--------------------|------------------------------------------------------------|
 | <div align="center"><img src="assets/git.svg" alt="Git" height=40 width=40></div>                   | Git         | :star::star::star:☆☆      | :star::star::star: | Conflict prevention, different merging ways                |
 | <div align="center"><img src="assets/vscode.svg" alt="Visual Studio Code" height=40 width=40></div> | VS Code     | :star::star::star::star:☆ | :star::star::star: | Addon Development, utilizing more shortcuts                |
-| <div align="center"><img src="assets/docker.svg" alt="Docker" height=40 width=40></div>       | Docker      | :star::star::star:☆☆      | :star:☆☆           | Deployment CI/CD, Images, Dockerfiles                      |
-| <div align="center"><img src="assets/illustrator.svg" alt="Illustrator" height=40 width=40></div>              | Illustrator | :star::star::star:☆☆      | :star::star:☆      | General drawing skills                                     |
+| <div align="center"><img src="assets/docker.svg" alt="Docker" height=40 width=40></div>             | Docker      | :star::star::star:☆☆      | :star:☆☆           | Deployment CI/CD, Images, Dockerfiles                      |
+| <div align="center"><img src="assets/illustrator.svg" alt="Illustrator" height=40 width=40></div>   | Illustrator | :star::star::star:☆☆      | :star::star:☆      | General drawing skills                                     |
 | <div align="center"><img src="assets/photoshop.svg" alt="Photoshop" height=40 width=40></div>       | Photoshop   | :star::star::star:☆☆      | :star::star:☆      | Image manipulation, combination, masks                     |
-| <div align="center"><img src="assets/datagrip.svg" alt="Datagrip" height=40 width=40></div>                 | DataGrip    | :star::star:☆☆☆           | :star:☆☆           | Data Visualization, big data, scripting, advanced features |
+| <div align="center"><img src="assets/datagrip.svg" alt="Datagrip" height=40 width=40></div>         | DataGrip    | :star::star:☆☆☆           | :star:☆☆           | Data Visualization, big data, scripting, advanced features |
 | <div align="center"><img src="assets/word.svg" alt="Word" height=40 width=40></div>                 | Word        | :star::star::star::star:☆ | :star::star:☆      | Macros, Developer tools                                    |
 | <div align="center"><img src="assets/excel.svg" alt="Excel" height=40 width=40></div>               | Excel       | :star::star::star::star:☆ | :star::star:☆      | Advanced functions, Macros, Developer tools                |
 | <div align="center"><img src="assets/powerpoint.svg" alt="PowerPoint" height=40 width=40></div>     | PowerPoint  | :star::star::star::star:☆ | :star::star:☆      | Macros, Developer tools                                    |
@@ -115,10 +116,10 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 
 ## Education
 
-| Degree | Credits | School | Duration | Date |
-|--------|---------|--------|----------|------|
-| **Bachelor of Business Administration, Business Information Systems - IT BBA** | 210 | Tampere University of Applied Sciences | 3,5 yrs | Aug 2021 - Dec 2024 |
-| **Computer Software Engineering Courses** | 64 | JAMK University of Applied Sciences | 1 yr | Aug 2019 - May 2020 |
-| **Business Information Systems Basic Degree** | 180 | Valkeakoski Vocational College | 2,5 yrs | Aug 2015 - Dec 2017 |
-| **Club instructor** | *N/A* | 4H Finland | 3 yrs | Aug 2018 - Aug 2019 |
-| **Club instructor and camp councelor** | *N/A* | Sääksmäki Church | 5 yrs | Aug 2015 - Aug 2019 |
+| Degree                                                                         | Credits | School                                 | Duration | Date                |
+|--------------------------------------------------------------------------------|---------|----------------------------------------|----------|---------------------|
+| **Bachelor of Business Administration, Business Information Systems - IT BBA** | 210     | Tampere University of Applied Sciences | 3,5 yrs  | Aug 2021 - Dec 2024 |
+| **Computer Software Engineering Courses**                                      | 64      | JAMK University of Applied Sciences    | 1 yr     | Aug 2019 - May 2020 |
+| **Business Information Systems Basic Degree**                                  | 180     | Valkeakoski Vocational College         | 2,5 yrs  | Aug 2015 - Dec 2017 |
+| **Club instructor**                                                            | *N/A*   | 4H Finland                             | 3 yrs    | Aug 2018 - Aug 2019 |
+| **Club instructor and camp councelor**                                         | *N/A*   | Sääksmäki Church                       | 5 yrs    | Aug 2015 - Aug 2019 |
