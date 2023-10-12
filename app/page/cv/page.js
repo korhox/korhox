@@ -29,6 +29,7 @@ const Button = ({ icon, text, onClick, href }) => {
         </button>
 }
 
+
 const ProfileIcon = ({ network, username, link, icon }) => {
     icon = icon ? icon : ["fab", String(network).toLocaleLowerCase()]
     return (
@@ -58,10 +59,13 @@ const formatDuration = (period) => {
     return parts.join(" ");
 }
 
+
+
 export default function Page() {
+
     return (
         <>
-            <div className="w-[210mm] mb-4 mt-10 flex justify-between print:hidden">
+            <div className="w-[210mm] m-4 mt-10 flex justify-between print:hidden">
                 <div>
                     <h1>CV - {resume.basics.name}</h1>
                 </div>
@@ -163,6 +167,10 @@ export default function Page() {
                     ))}
                 </article>
             </main >
+            <p className="text-center print:hidden mt-4">
+                Page made with Next.js, React, Tailwind CSS and deployed to Vercel<br />
+                <a href="https://github.com/korhox/korhox/" target="_blank" className="text-primary">View in GitHub</a>
+            </p>
         </>
     )
 }
