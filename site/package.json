@@ -1,0 +1,30 @@
+{
+  "name": "korho-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-pro": "^6.4.2",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/pro-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "latest",
+    "moment": "^2.29.4",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.69.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4"
+  }
+}

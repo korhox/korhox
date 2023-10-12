@@ -1,0 +1,16 @@
+html {
+    font-size:14px;
+}
+
+h1 {
+    @apply text-xl font-bold [&:not(:first-child)]:mt-4;
+}
+h2 {
+    @apply text-lg font-bold [&:not(:first-child)]:mt-4;
+}
+h3 {
+    @apply text-sm font-bold [&:not(:first-child)]:mt-4;
+}
+p {
+    @apply text-xs;
+}
