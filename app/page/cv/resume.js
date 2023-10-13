@@ -44,9 +44,6 @@ const resume = {
             "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/bittivirta.svg",
             "startDate": "2016-06-01",
             "summary": "Website- and graphic design, offering services as game servers, web hosting, domains, VPS etc.",
-            "highlights": [
-                "Started the company"
-            ]
         },
         {
             "name": "Tampere University of Applied Sciences (TAMK)",
@@ -55,10 +52,7 @@ const resume = {
             "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/tamk.jpeg",
             "startDate": "2023-01-01",
             "endDate": "2023-12-31",
-            "summary": "Planned, lectured and graded a course on basic IT skills for social worker students. Learned a lot about teaching, planning and grading courses.",
-            "highlights": [
-                "Started the company"
-            ]
+            "summary": "Planned, lectured and graded a course on basic IT skills for social worker students. Learned a lot about teaching, planning and grading courses."
         },
         {
             "name": "VStore.fi Parts Oy",
@@ -67,10 +61,7 @@ const resume = {
             "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/vstore.png",
             "startDate": "2018-04-01",
             "endDate": "2019-06-30",
-            "summary": "Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating",
-            "highlights": [
-                ""
-            ]
+            "summary": "Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating"
         },
         {
             "name": "Subway",
@@ -79,10 +70,7 @@ const resume = {
             "url": "",
             "startDate": "2018-03-01",
             "endDate": "2018-04-30",
-            "summary": "Gained experience working under high pressure, while maintaining ability to keep it cool for customers",
-            "highlights": [
-                ""
-            ]
+            "summary": "Gained experience working under high pressure, while maintaining ability to keep it cool for customers"
         },
         {
             "name": "4H Finland and Sääksmäki Church",
@@ -90,10 +78,7 @@ const resume = {
             "url": "",
             "startDate": "2015-06-01",
             "endDate": "2018-07-31",
-            "summary": "Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps",
-            "highlights": [
-                ""
-            ]
+            "summary": "Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps"
         },
     ],
     "education": [
@@ -104,11 +89,7 @@ const resume = {
             "area": "Software Development",
             "studyType": "Business Information Systems, BBA",
             "startDate": "2021-08-01",
-            "endDate": "2024-12-31",
-            "credits": "210",
-            "courses": [
-                "Multiple"
-            ]
+            "credits": "210"
         },
         {
             "institution": "JAMK University of Applied Sciences",
@@ -118,23 +99,17 @@ const resume = {
             "studyType": "Computer Software Engineering",
             "startDate": "2019-08-01",
             "endDate": "2020-05-31",
-            "credits": "64",
-            "courses": [
-                "Multiple"
-            ]
+            "credits": "64"
         },
         {
             "institution": "Valkeakoski Vocational College (VAAO)",
             "url": "https://www.jamk.fi/en",
             "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/vaao.jpeg",
             "area": "Undergraduate Degree",
-            "studyType": "Information- and communication technologies, UGRD",
+            "studyType": "ICT Undergraduate Degree",
             "startDate": "2015-08-01",
-            "endDate": "2017-05-31",
-            "credits": "64",
-            "courses": [
-                "Multiple"
-            ]
+            "endDate": "2017-12-31",
+            "credits": "180"
         }
     ],
     "certificates": [
@@ -224,7 +199,9 @@ const resume = {
                 "Pterodactyl",
                 "Plesk",
                 "cPanel",
-                "Nextcloud"
+                "Nextcloud",
+                "CapRover",
+                "Simple Machines Forum",
             ]
         },
         {
