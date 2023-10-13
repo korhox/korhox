@@ -1,0 +1,49 @@
+.page_controls {
+    @apply w-[210mm] m-4 mt-10 flex justify-between print:hidden;
+    .buttons {
+        @apply flex gap-4;
+    }
+}
+
+.button {
+    @apply cursor-pointer bg-white/70 flex items-center rounded-full;
+
+    .icon_holder {
+        @apply bg-primary text-white w-10 h-10 rounded-full flex items-center justify-center;
+    }
+    .text {
+        @apply ps-3 pe-5 py-2 font-bold text-primary;
+    }
+}
+
+
+.page {
+    @apply m-4 mt-0 h-[297mm] w-[210mm] overflow-hidden rounded-xl bg-white p-8 shadow-xl flex gap-6 print:m-0 print:p-0 print:h-screen print:w-screen print:rounded-none print:shadow-none;
+    .sidebar {
+        @apply w-[30%] bg-slate-100 p-4 rounded-xl flex flex-col justify-between;
+        h2 {
+            @apply ps-1 pb-1;
+        }
+        .avatar {
+            @apply w-full rounded-full border-2 border-slate-400 mb-4;
+        }   
+        .label {
+            @apply opacity-60 mb-4;
+        }
+        .summary {
+            @apply text-sm;
+        }
+        .profile {
+            @apply my-4 flex flex-col gap-2;
+            .item {
+                @apply flex items-center gap-2;
+                .icon {
+                    @apply text-primary;
+                }
+            }
+        }
+    }
+    .article {
+        @apply w-[70%];
+    }
+}
