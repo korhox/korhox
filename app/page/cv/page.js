@@ -185,6 +185,10 @@ export default function Page() {
                                         </span>
                                         <span className="opacity-50">•</span>
                                         <span>
+                                            {education.credits} cr
+                                        </span>
+                                        <span className="opacity-50">•</span>
+                                        <span>
                                             {moment(education.startDate).format("MMM YYYY")} » {education.endDate ? moment(education.endDate).format("MMM YYYY") : "Present"}
                                         </span>
                                         <span className="opacity-50">•</span>
@@ -199,7 +203,7 @@ export default function Page() {
                     </div>
                 </article>
             </main >
-            <p className="text-center print:hidden mt-4">
+            <p className="text-center print:hidden m-4">
                 Page made with Next.js, React, Tailwind CSS and deployed to Vercel<br />
                 <a href="https://github.com/korhox/korhox/" target="_blank" className="text-primary">View in GitHub</a>
             </p>
