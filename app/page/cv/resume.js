@@ -10,6 +10,7 @@ const resume = {
         "email": "juuso@korho.fi",
         "phone": "+358 453 541 001",
         "url": "https://korho.fi/",
+        "online_cv": "https://korho.fi/cv",
         "summary": "Bachelor of Business Administration, ICT Student at TAMK University of Applied Sciences.",
         "location": {
             "postalCode": "37600",
