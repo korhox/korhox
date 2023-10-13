@@ -1,14 +1,8 @@
 "use client";
 import Link from 'next/link'
-import { redirect } from 'next/navigation'
+import { redirect, usePathname } from 'next/navigation'
 
 export default function NotFound() {
-    redirect("https://r.korho.fi/")
-    return (
-        <div>
-            <h2>Not Found</h2>
-            <p>Could not find requested resource</p>
-            <Link href="/">Return Home</Link>
-        </div>
-    )
+    const pathname = usePathname()
+    redirect("https://r.korho.fi" + (pathname || "/"))
 }
