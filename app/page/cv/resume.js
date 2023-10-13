@@ -41,6 +41,7 @@ const resume = {
             "name": "Bittivirta",
             "position": "Entrepreneur",
             "url": "https://bittivirta.fi",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/bittivirta.svg",
             "startDate": "2016-06-01",
             "summary": "Website- and graphic design, offering services as game servers, web hosting, domains, VPS etc.",
             "highlights": [
@@ -51,9 +52,10 @@ const resume = {
             "name": "Tampere University of Applied Sciences (TAMK)",
             "position": "Part-time teacher",
             "url": "https://www.tuni.fi/en/about-us/tamk",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/tamk.jpeg",
             "startDate": "2023-01-01",
             "endDate": "2023-12-31",
-            "summary": "Planned, lectured and graded a course on basic IT skills for social worker students",
+            "summary": "Planned, lectured and graded a course on basic IT skills for social worker students. Learned a lot about teaching, planning and grading courses.",
             "highlights": [
                 "Started the company"
             ]
@@ -62,6 +64,7 @@ const resume = {
             "name": "VStore.fi Parts Oy",
             "position": "Computer Technician",
             "url": "",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/vstore.png",
             "startDate": "2018-04-01",
             "endDate": "2019-06-30",
             "summary": "Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating",
@@ -72,6 +75,7 @@ const resume = {
         {
             "name": "Subway",
             "position": "Sandwich Artist",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/subway.jpeg",
             "url": "",
             "startDate": "2018-03-01",
             "endDate": "2018-04-30",
@@ -96,6 +100,7 @@ const resume = {
         {
             "institution": "Tampere University of Applied Sciences (TAMK)",
             "url": "https://www.tuni.fi/en/about-us/tamk",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/tamk.jpeg",
             "area": "Software Development",
             "studyType": "Business Information Systems, BBA",
             "startDate": "2021-08-01",
@@ -108,6 +113,7 @@ const resume = {
         {
             "institution": "JAMK University of Applied Sciences",
             "url": "https://www.tuni.fi/en/about-us/tamk",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/jamk.jpeg",
             "area": "Software Development",
             "studyType": "Computer Software Engineering",
             "startDate": "2019-08-01",
@@ -118,10 +124,11 @@ const resume = {
             ]
         },
         {
-            "institution": "Valkeakoski Vocational College",
+            "institution": "Valkeakoski Vocational College (VAAO)",
             "url": "https://www.jamk.fi/en",
-            "area": "Software Development",
-            "studyType": "Business Information Systems Basic Degree",
+            "logo": "https://raw.githubusercontent.com/korhox/korhox/main/app/page/cv/assets/vaao.jpeg",
+            "area": "Undergraduate Degree",
+            "studyType": "Information- and communication technologies, UGRD",
             "startDate": "2015-08-01",
             "endDate": "2017-05-31",
             "credits": "64",
