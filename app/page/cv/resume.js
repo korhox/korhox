@@ -154,6 +154,7 @@ const resume = {
                 "Bootstrap",
                 "React",
                 "Next.js",
+                "Express",
                 "jQuery",
                 "Smarty",
                 "Pug"
@@ -200,9 +201,11 @@ const resume = {
                 "Pterodactyl",
                 "Plesk",
                 "cPanel",
+                "WHM",
                 "Nextcloud",
                 "CapRover",
                 "Simple Machines Forum",
+                "Docusaurus",
             ]
         },
         {

@@ -21,19 +21,12 @@
 
 <br>
 
-## SSH Keys
+## Online resume
 
-If I've requested you to add my SSH keys to your server, you can get them here: [https://github.com/korhox.keys](https://github.com/korhox.keys).
-
-:warning: Please remove my access to your server after we have finished our cooperation to maximize your safety.
+I have online resume, available at [korho.fi/cv](https://korho.fi/cv), if you are interested in hiring me, please contact me via email or phone.
 
 <br>
 
-## Contact me
-
-Ask me anything, offer for a job or ask for a quote through an email [juuso@korho.fi](juuso@korho.fi)!
-
-<br>
 
 ## Known programming and markup languages
 
@@ -60,18 +53,26 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 | <div align="center"><img src="assets/bootstrap.svg" alt="Bootstrap" height=40 width=40></div> | Bootstrap | :star::star::star::star::star: | :star::star::star: | Keeping up on new features and utilizing styles more widely |
 | <div align="center"><img src="assets/react.svg" alt="React" height=40 width=40></div>         | React     | :star::star::star:☆☆           | :star::star:☆      | Recap needed, been using React with Next.js                 |
 | <div align="center"><img src="assets/nextjs.svg" alt="Next.js" height=40 width=40></div>      | Next.js   | :star::star::star:☆☆           | :star::star:☆      | Using pages router, backend development, testing            |
+| <div align="center"><img src="assets/express.png" alt="Express" height=40 width=40></div>     | Express   | :star::star::star:☆☆           | :star:☆☆           | Modularizing, authentication,                               |
 | <div align="center"><img src="assets/jquery.svg" alt="jQuery" height=40 width=40></div>       | jQuery    | :star::star::star:☆☆           | :star::star:☆      | Utilizing AJAX simpler                                      |
 | <div align="center"><img src="assets/smarty.webp" alt="Smarty" height=40 width=40></div>      | Smarty    | :star::star::star::star:☆      | :star::star::star: | Plugins                                                     |
 | <div align="center"><img src="assets/pug.svg" alt="Pug" height=40 width=40></div>             | Pug       | :star::star::star:☆☆           | :star:☆☆           | Filters, inheritance, React integration                     |
 
+
 ## Website software knowledge
 
-|                                                                                               | Language  | Skill Level                    | Experience Level   | Improving needed on                     |
-|-----------------------------------------------------------------------------------------------|-----------|--------------------------------|--------------------|-----------------------------------------|
-| <div align="center"><img src="assets/whmcs.svg" alt="WHMCS" height=40 width=40></div>         | WHMCS     | :star::star::star::star::star: | :star::star::star: | Better understanding of the Source code |
-| <div align="center"><img src="assets/wordpress.svg" alt="WordPress" height=40 width=40></div> | WordPress | :star::star::star::star:☆      | :star::star::star: | Addon & Theme Development               |
-| <div align="center"><img src="assets/elementor.svg" alt="Elementor" height=40 width=40></div> | Elementor | :star::star::star::star:☆      | :star::star::star: | Custom block development                |
-| <div align="center"><img src="assets/xenforo.png" alt="xenForo" height=40 width=40></div>     | xenForo   | :star::star::star::star:☆      | :star::star::star: | Advanced addOn development              |
+|                                                                                                   | Language    | Skill Level                    | Experience Level   | Improving needed on                                         |
+|---------------------------------------------------------------------------------------------------|-------------|--------------------------------|--------------------|-------------------------------------------------------------|
+| <div align="center"><img src="assets/whmcs.svg" alt="WHMCS" height=40 width=40></div>             | WHMCS       | :star::star::star::star::star: | :star::star::star: | Better understanding of the Source code                     |
+| <div align="center"><img src="assets/wordpress.svg" alt="WordPress" height=40 width=40></div>     | WordPress   | :star::star::star::star:☆      | :star::star::star: | Addon & Theme Development, managing bigger installations    |
+| <div align="center"><img src="assets/elementor.svg" alt="Elementor" height=40 width=40></div>     | Elementor   | :star::star::star::star:☆      | :star::star:☆      | Custom block development, managing bigger installations     |
+| <div align="center"><img src="assets/xenforo.png" alt="xenForo" height=40 width=40></div>         | xenForo     | :star::star::star::star:☆      | :star::star:☆      | Advanced addOn development, managing bigger communities     |
+| <div align="center"><img src="assets/pterodactyl.svg" alt="Pterodactyl" height=40 width=40></div> | Pterodactyl | :star::star::star::star::star: | :star::star::star: | Diving to source code, customizing and contributing         |
+| <div align="center"><img src="assets/plesk.svg" alt="Plesk" height=40 width=40></div>             | Plesk       | :star::star::star::star::star: | :star::star::star: | Creating extensions, customizing                            |
+| <div align="center"><img src="assets/cpanel.svg" alt="cPanel" height=40 width=40></div>           | cPanel      | :star::star::star::star:☆      | :star::star::star: | Catching up on new features                                 |
+| <div align="center"><img src="assets/whm.svg" alt="WHM" height=40 width=40></div>                 | WHM         | :star::star:☆☆☆                | :star:☆☆           | Setting up, only used as reseller POV                       |
+| <div align="center"><img src="assets/caprover.svg" alt="Cap Rover" height=40 width=40></div>      | Cap Rover   | :star::star::star::star:☆      | :star:☆☆           | Hosting custom images & creating templates, app maintenance |
+| <div align="center"><img src="assets/docusaurus.svg" alt="Docusaurus" height=40 width=40></div>   | Docusaurus  | :star::star::star::star:☆      | :star::star:☆      | Swizzling and creating plugins                              |
 
 ## Software knowledge
 
@@ -79,6 +80,8 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 |-----------------------------------------------------------------------------------------------------|-------------|---------------------------|--------------------|------------------------------------------------------------|
 | <div align="center"><img src="assets/git.svg" alt="Git" height=40 width=40></div>                   | Git         | :star::star::star:☆☆      | :star::star::star: | Conflict prevention, different merging ways                |
 | <div align="center"><img src="assets/vscode.svg" alt="Visual Studio Code" height=40 width=40></div> | VS Code     | :star::star::star::star:☆ | :star::star::star: | Addon Development, utilizing more shortcuts                |
+| <div align="center"><img src="assets/jira.svg" alt="Jira" height=40 width=40></div>                 | Jira        | :star::star::star::star:☆ | :star::star:☆      | Administration, custom roles,                              |
+| <div align="center"><img src="assets/confluence.svg" alt="Confluence" height=40 width=40></div>     | Confluence  | :star::star::star:☆☆      | :star:☆☆           | Site Administration, roles                                 |
 | <div align="center"><img src="assets/docker.svg" alt="Docker" height=40 width=40></div>             | Docker      | :star::star::star:☆☆      | :star:☆☆           | Deployment CI/CD, Images, Dockerfiles                      |
 | <div align="center"><img src="assets/illustrator.svg" alt="Illustrator" height=40 width=40></div>   | Illustrator | :star::star::star:☆☆      | :star::star:☆      | General drawing skills                                     |
 | <div align="center"><img src="assets/photoshop.svg" alt="Photoshop" height=40 width=40></div>       | Photoshop   | :star::star::star:☆☆      | :star::star:☆      | Image manipulation, combination, masks                     |
@@ -92,34 +95,9 @@ Ask me anything, offer for a job or ask for a quote through an email [juuso@korh
 &nbsp; + Linux/Ubuntu servers
 <br>&nbsp; + Windows servers
 <br>&nbsp; + Good knowledge of basic server infrastructures
-<br>&nbsp; + Configuring and debbugging server software
+<br>&nbsp; + Configuring and debbugging server & workstation software
 <br>&nbsp; + Power using of Microsoft Office Word, Excel & Powerpoint
-<br>&nbsp; + (Good understanding of video streaming and venue PA's)
-<br>&nbsp; + (Few years of baking and cooking)
+<br>&nbsp; + Good understanding of video streaming and venue PA's
+<br>&nbsp; + Years of baking and cooking
 <br>&nbsp; + Modern website design
 <br>&nbsp; + Website optimization and SEO
-<br>&nbsp; + MacOS, Linux & Windows (MacOS as main OS)
-
-<br>
-
-## Work Experience
-
-| Position                                   | Company                                                                                        | Duration   | Date                  | Description                                                                                                      |
-|--------------------------------------------|------------------------------------------------------------------------------------------------|------------|-----------------------|------------------------------------------------------------------------------------------------------------------|
-| **Entrepreneur**                           | [Bittivirta](https://bittivirta.fi)                                                            | +7 yrs     | Jul 2016 - Present    | Website- and graphic design, offering services as game servers, web hosting, domains, VPS etc.                   |
-| **Visiting Lecturer**                      | [Tampere University of Applied Sciences (TAMK)](https://www.tuni.fi/en/about-us/tamk)          | 24h        | Jan 2023 - Dec 2023   | One course on basic IT skills for social worker students                                                         |
-| **Computer refurbisher & General manager** | [Vstore.fi Parts Oy](https://vstore.fi)                                                        | 1 yr 3 mos | Apr 2018 - Jun 2019   | Trainee instructor, office tasks, customer service, computer fixing & installation, and website content updating |
-| **Sandwich Artist**                        | [Subway](https://subway.fi)                                                                    | 2 mos      | Mar 2018 - Apr 2018   | Gained experience working under high pressure, while maintaining ability to keep it cool for customers           |
-| **Club instructor and camp councelor**     | [4H Finland](https://4h.fi) and [Sääksmäki Church](https://www.suomenmaa.fi/author/saaksmaki/) | 5 yrs      | June 2015 - July 2020 | Learned a great set of skills while guided kids and youngsters during weekly club evenings and camps             |
-
-<br>
-
-## Education
-
-| Degree                                                                         | Credits | School                                 | Duration | Date                |
-|--------------------------------------------------------------------------------|---------|----------------------------------------|----------|---------------------|
-| **Bachelor of Business Administration, Business Information Systems - IT BBA** | 210     | Tampere University of Applied Sciences | 3,5 yrs  | Aug 2021 - Dec 2024 |
-| **Computer Software Engineering Courses**                                      | 64      | JAMK University of Applied Sciences    | 1 yr     | Aug 2019 - May 2020 |
-| **Business Information Systems Basic Degree**                                  | 180     | Valkeakoski Vocational College         | 2,5 yrs  | Aug 2015 - Dec 2017 |
-| **Club instructor**                                                            | *N/A*   | 4H Finland                             | 3 yrs    | Aug 2018 - Aug 2019 |
-| **Club instructor and camp councelor**                                         | *N/A*   | Sääksmäki Church                       | 5 yrs    | Aug 2015 - Aug 2019 |
