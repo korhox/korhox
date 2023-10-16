@@ -2,7 +2,8 @@
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "../style/page.scss";
-import style from "../style/page.module.scss";
+import page from "../style/page.module.scss";
+import cv from "./style/cv.module.scss";
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
@@ -16,18 +17,18 @@ import Image from "next/image";
 
 const Button = ({ icon, text, onClick, href }) => {
     return href ?
-        <a href={href} className={style.button}>
-            <div className={style.icon_holder} >
+        <a href={href} className={page.button}>
+            <div className={page.icon_holder} >
                 <FontAwesomeIcon icon={icon} />
             </div >
-            <span className={style.text}>{text}</span>
+            <span className={page.text}>{text}</span>
         </a >
         :
-        <button onClick={onClick} className={style.button}>
-            <div className={style.icon_holder} >
+        <button onClick={onClick} className={page.button}>
+            <div className={page.icon_holder} >
                 <FontAwesomeIcon icon={icon} />
             </div>
-            <span className={style.text}>{text}</span>
+            <span className={page.text}>{text}</span>
         </button>
 }
 
@@ -35,8 +36,8 @@ const Button = ({ icon, text, onClick, href }) => {
 const ProfileIcon = ({ network, username, link, icon }) => {
     icon = icon ? icon : ["fab", String(network).toLocaleLowerCase()]
     return (
-        <div className={style.item}>
-            <FontAwesomeIcon icon={icon} className={style.icon} fixedWidth title={network} />
+        <div className={cv.item}>
+            <FontAwesomeIcon icon={icon} className={cv.icon} fixedWidth title={network} />
             <a href={link} target="_blank">{username}</a>
         </div>
     )
@@ -67,23 +68,23 @@ export default function Page() {
 
     return (
         <>
-            <div className={style.page_controls}>
+            <div className={page.page_controls}>
                 <div>
                     <h1>CV - {resume.basics.name}</h1>
                 </div>
-                <div className={style.buttons}>
+                <div className={page.buttons}>
                     <Button icon={["fas", "print"]} text="Print or Download" onClick={(e) => window.print()} />
                     <Button icon={["fas", "inbox-in"]} text="Download JSON Resume" href="/api/download/resume" />
                 </div>
             </div>
-            <main className={style.page}>
-                <aside className={style.sidebar}>
+            <main className={page.page + " flex"}>
+                <aside className={cv.sidebar}>
                     <div>
-                        <img src="https://avatars.githubusercontent.com/u/10478812" className={style.avatar} />
+                        <img src="https://avatars.githubusercontent.com/u/10478812" className={cv.avatar} />
                         {resume.basics.name && <h1>{resume.basics.name}</h1>}
-                        {resume.basics.label && <p className={style.label}>{resume.basics.label}</p>}
-                        {resume.basics.summary && <p className={style.summary}>{resume.basics.summary}</p>}
-                        <div className={style.profile}>
+                        {resume.basics.label && <p className={cv.label}>{resume.basics.label}</p>}
+                        {resume.basics.summary && <p className={cv.summary}>{resume.basics.summary}</p>}
+                        <div className={cv.profile}>
                             {resume.basics.email && (
                                 <ProfileIcon network="Email" icon="envelope" username={resume.basics.email} url={`mailto:${resume.basics.email}`} />
                             )}
@@ -117,7 +118,7 @@ export default function Page() {
                         Online version of this CV is available at <a href="https://korho.fi/cv" className="text-primary">korho.fi/cv</a>
                     </div>
                 </aside>
-                <article className={style.article}>
+                <article className={cv.article}>
                     <h2 className="ps-1 pb-1">Skills</h2>
                     <div className="p-3 bg-slate-100 rounded-lg flex flex-col gap-3">
                         {resume.skills && resume.skills.map((skill, i) => (
@@ -125,7 +126,7 @@ export default function Page() {
                                 <h3 className="text-xs">{skill.name}</h3>
                                 <div className="flex flex-wrap gap-1 mt-1">
                                     {skill.keywords && skill.keywords.map((keyword, j) => (
-                                        <span key={"skill-" + j} className={"bg-primary text-white px-2 py-[0.16rem] rounded-full inline-block text-xs"}>{keyword}</span>
+                                        <span key={"skill-" + j} className="bg-primary text-white px-2 py-[0.16rem] rounded-full inline-block text-xs">{keyword}</span>
                                     ))}
                                 </div>
                             </div>
